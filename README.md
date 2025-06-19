@@ -19,6 +19,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Environment: Jupyter Notebook
 
 📊 Project Workflow
+
 🔹 1. Data Preprocessing
 Cleaned missing values in TotalCharges
 
